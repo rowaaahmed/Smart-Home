@@ -6,8 +6,13 @@ sustainable smart living.
 
 ## Contributors 
 Rowaa Ahmed
+
 Zaid Hatem 
+
 Seif Heggy
+
 Mohammed Yasser
+
 Habiba El-Shahat
+
 Farah Harfoush 
